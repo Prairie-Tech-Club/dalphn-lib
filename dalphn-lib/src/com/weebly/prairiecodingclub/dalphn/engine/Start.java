@@ -1,7 +1,7 @@
 package com.weebly.prairiecodingclub.dalphn.engine;
 
 /**
- * @author 
+ * @author Nathan Giddings, David Boman, Jimmy Kunze, Alex Hanson, Kollin Lehman
  *
  */
 public class Start {
